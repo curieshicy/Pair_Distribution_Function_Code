@@ -1,0 +1,114 @@
+###############################################################################
+# Megaw, H.D. (1945)
+# Nature (London) 155, 484-485
+# Crystal Structure of Barium Titanate
+# 
+# CIF by ICSD-for-WWW,  Copyright 2003 FIZ-Karlsruhe & A.W.Hewat (hewat@ill.fr)
+# NOT TO BE PUBLISHED IN ANY FORM. See http://icsd.ill.fr/icsd/conditions.html
+###############################################################################
+
+data_29147-ICSD
+_database_code_ICSD                29147
+_audit_creation_date               1980-01-01
+_chemical_name_systematic
+'Barium titanate'
+_chemical_formula_structural       
+'Ba Ti O3'
+_chemical_formula_sum              
+'Ba1 O3 Ti1'
+_publ_section_title                
+'Ba1 O3 Ti1'
+loop_
+_citation_id
+_citation_journal_abbrev
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Nature (London)' 1945 155 484 485 NATUAS
+loop_
+_publ_author_name
+Megaw, H.D.
+_cell_length_a                     4.0119(5)
+_cell_length_b                     4.0119(5)
+_cell_length_c                     4.0119(5)
+_cell_angle_alpha                  90.
+_cell_angle_beta                   90.
+_cell_angle_gamma                  90.
+_cell_volume                       64.5708
+_cell_formula_units_Z              1.000
+_symmetry_space_group_name_H-M     'P m -3 m'
+_symmetry_Int_Tables_number        221
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+ 1 'x,y,z'
+ 2 'x,-y,-z'
+ 3 'x,-y,z'
+ 4 '-z,-y,x'
+ 5 'z,-y,x'
+ 6 '-y,x,-z'
+ 7 '-y,x,z'
+ 8 '-y,-z,x'
+ 9 '-y,z,x'
+ 10 'x,-z,-y'
+ 11 'x,-z,y'
+ 12 'x,z,-y'
+ 13 'x,z,y'
+ 14 '-z,x,-y'
+ 15 '-z,x,y'
+ 16 'z,x,-y'
+ 17 'z,x,y'
+ 18 'y,x,-z'
+ 19 'y,x,z'
+ 20 'y,-z,x'
+ 21 'y,z,x'
+ 22 'x,y,-z'
+ 23 '-z,y,x'
+ 24 'z,y,x'
+ 25 '-x,-y,-z'
+ 26 '-x,y,z'
+ 27 '-x,y,-z'
+ 28 'z,y,-x'
+ 29 '-z,y,-x'
+ 30 'y,-x,z'
+ 31 'y,-x,-z'
+ 32 'y,z,-x'
+ 33 'y,-z,-x'
+ 34 '-x,z,y'
+ 35 '-x,z,-y'
+ 36 '-x,-z,y'
+ 37 '-x,-z,-y'
+ 38 'z,-x,y'
+ 39 'z,-x,-y'
+ 40 '-z,-x,y'
+ 41 '-z,-x,-y'
+ 42 '-y,-x,z'
+ 43 '-y,-x,-z'
+ 44 '-y,z,-x'
+ 45 '-y,-z,-x'
+ 46 '-x,-y,z'
+ 47 'z,-y,-x'
+ 48 '-z,-y,-x'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+     2.
+Ti4+     4.
+O2-     -2.
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 1 a 0 0 0 0. 1.
+Ti1 Ti4+ 1 b 0.5 0.5 0.5 0. 1.
+O1 O2- 3 c 0.5 0.5 0 0. 1.
+#End of data_29147-ICSD
+
